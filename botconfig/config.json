@@ -1,0 +1,26 @@
+{
+   "token": "OTY1OTcxMjI3Nzk1NjczMTI4.Yl68zw.XJiI7QJU3q6dUxtl5AilvUFGg6Q",
+   "prefix": "!",
+   "ownerIDS": [
+      "832663333529845772"
+   ],
+   "status": {
+      "text": "!help | notsaksh pooooog",
+      "text2": "By: milrato.dev",
+      "type": "WATCHING",
+      "url": "https://twitch.tv/#"
+   },
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "n1.lavalink.milrato.com",
+            "port": 10250,
+            "password": "discord.gg/milrato"
+         }
+      ]
+   },
+   "spotify": {
+      "clientSecret": "45e5a5c9eb14418a8c4aa39d1ca61edd",
+      "clientID": "bcc3541dff49441388bfe5e7ab0609c1"
+   }
+}
